@@ -1,4 +1,4 @@
-<h2>Project 1</h2>
+<h2>Login Interface</h2>
 <p>An login application that can validate both input fields</p> 
 <ul>
   <li>The fields should not be empty on submission</li>
